@@ -8,6 +8,6 @@
   <url>http://maven.apache.org</url>
   <packaging>pom</packaging>
   <modules>
-    <module>demotest</module>
+    <module>spring-aop</module>
   </modules>
 </project>
